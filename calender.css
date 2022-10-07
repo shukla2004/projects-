@@ -110,5 +110,11 @@
   }
   
   .today {
-    background-color: #167e56;
+    background-color: #d24803b7;
+  }
+  .today:hover{
+    border: 5px  rgb(0, 0, 0);
+    border-radius: 50%;
+    border-style:solid;
+  
   }
